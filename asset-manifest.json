@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewFace/static/css/main.ca7aee97.css",
+    "main.js": "/NewFace/static/js/main.53fe6fde.js",
+    "static/js/787.d6ecd35d.chunk.js": "/NewFace/static/js/787.d6ecd35d.chunk.js",
+    "static/media/brain.png.png": "/NewFace/static/media/brain.png.6b944d917c29b1dcf3d2.png",
+    "index.html": "/NewFace/index.html",
+    "main.ca7aee97.css.map": "/NewFace/static/css/main.ca7aee97.css.map",
+    "main.53fe6fde.js.map": "/NewFace/static/js/main.53fe6fde.js.map",
+    "787.d6ecd35d.chunk.js.map": "/NewFace/static/js/787.d6ecd35d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca7aee97.css",
+    "static/js/main.53fe6fde.js"
+  ]
+}
